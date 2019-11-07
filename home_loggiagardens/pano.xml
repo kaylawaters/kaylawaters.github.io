@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node7" appversion="6.0.6" apprev="17336">
+  <panorama id="node7">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-4.9375" pan="-3.62018" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Overview" datetime="9/25/20 2:34 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Got to Loggia Left Entrance" tilt="-10.79" pan="-291.59" url="{node1}" description="" target="47.9/-4.7/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Got to Tent" tilt="-7.1" pan="-172.61" url="{node6}" description="" target="110.0/8.2/70.0" id="Point02"/>
+      <hotspot skinid="ht_node" title="Loggia Right Entrance" tilt="-10.55" pan="-77.86" url="{node5}" description="" target="119.1/-6.0/70.0" id="Point03"/>
+      <hotspot skinid="ht_url" title="Website" tilt="-7.83" pan="-237.73" url="https://www.thanksgivingpoint.org/plan-an-event/weddings-receptions/" description="" target="_blank" id="Point05"/>
+      <hotspot skinid="ht_image" title="Water Tower" tilt="12.54" pan="-347.06" url="images/Water Tower.png" description="" target="" id="Point06"/>
+      <hotspot skinid="ht_info" title="" tilt="-10.64" pan="-4.04" url="" description="The Loggia Gardens are a small taste of what the Ashton Gardens at Thankgiving Point are. " target="" id="Point04"/>
+    </hotspots>
+    <media>
+      <lensflare type="4" tilt="47.990" pan="-132.450" blinding="50.000" id="Lensflare01" alpha="80.000" color="0xffffff"/>
+    </media>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Left Entrance" datetime="9/25/20 2:20 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Loggia Left Walkway" tilt="-6.89" pan="-2.43" url="{node2}" description="" target="-0.6/-17.6/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Loggia Overview" tilt="-12.59" pan="-104.9" url="{node7}" description="" target="-118.8/0.1/70.0" id="Point02"/>
+      <hotspot skinid="ht_node" title="Loggia Right Entrance" tilt="-6.47" pan="-90.54" url="{node5}" description="" target="85.2/-8.8/70.0" id="Point03"/>
+    </hotspots>
+    <media>
+      <video pansize="10.000" roty="2.000" loop="0" rotz="0.000" height="720" tilt="-4.530" id="Element01" level="1.000" pan="-197.460" mode="1" startmutedmobile="0" handcursor="0" fov="19.000" ambientlevel="0.000" field="90.000" clickmode="2" rotx="0.000" stretch="1.000" tiltsize="10.000" nodechangekeep="0" width="1280">
+        <source url="media/AdobeStock_124159215_Video_HD_Preview.mov"/>
+      </video>
+    </media>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Left Walkway" datetime="9/25/20 2:22 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Loggia Right Walkway" tilt="-6.07" pan="-93.3" url="{node4}" description="" target="87.3/0.8/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Loggia Gazebo" tilt="-6.2" pan="-10.93" url="{node3}" description="" target="-48.1/-2.7/70.0" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Gazebo" datetime="9/25/20 2:24 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="" tilt="-6.22" pan="-227.61" url="{node2}" description="" target="157.1/-0.4/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Loggia Right Walkway" tilt="-7.11" pan="-147.69" url="{node4}" description="" target="12.1/-4.7/70.0" id="Point02"/>
+      <hotspot skinid="ht_node" title="Loggia Overview" tilt="-2.21" pan="-186.95" url="{node7}" description="" target="176.8/-9.0/70.0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Right Walkway" datetime="9/25/20 2:26 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Loggia Right Entrance" tilt="-5.69" pan="-3.21" url="{node5}" description="" target="0.0/0.0/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Loggia Left Walkway" tilt="-5.59" pan="-93.14" url="{node2}" description="" target="80.6/-2.4/70.0" id="Point02"/>
+      <hotspot skinid="ht_node" title="Loggia Gazebo" tilt="-4.93" pan="-177.86" url="{node3}" description="" target="40.2/1.1/70.0" id="Point03"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Right Entrance" datetime="9/25/20 2:28 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Loggia Tent" tilt="-5.6" pan="-26" url="{node6}" description="" target="77.2/1.8/70.0" id="Point01"/>
+      <hotspot skinid="ht_node" title="Loggia Overview" tilt="-10.2" pan="-80.9" url="{node7}" description="" target="119.4/0.3/70.0" id="Point02"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <input overlap="1" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" width="2000" height="2000">
+      <level preload="0" predecode="0" width="2000" height="2000"/>
+      <level preload="0" predecode="0" width="1000" height="1000"/>
+      <level preload="1" predecode="1" width="500" height="500"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" pan="0" fov="70"/>
+      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fovfisheye="360" pan="360" fovstereographic="270" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="Loggia Tent" datetime="9/25/20 2:32 AM" source="" description="" latitude="" longitude="" author="" comment="" tags="Full Panos" customnodeid="" copyright="" info=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label background="1" borderalpha="1" enabled="1" textalpha="1" borderradius="1" bordercolor="0x000000" textcolor="0x000000" wordwrap="1" backgroundcolor="0xffffff" backgroundalpha="1" border="1" width="180" height="20"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot skinid="ht_node" title="Loggia Overview" tilt="-6.6" pan="-80.91" url="{node7}" description="" target="10.4/-4.1/70.0" id="Point01"/>
+      <hotspot skinid="ht_image" title="Weddings &amp; Events" tilt="-8" pan="-350.14" url="images/Weddings.png" description="" target="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound tilt="-4.930" tiltsize="10.000" loop="1" level="0.800" nodechangekeep="0" pan="-273.820" pansize="10.000" mode="3" field="90.000" startmutedmobile="0" id="Element01" ambientlevel="0.000">
+        <source url="media/Wedding_Invitation.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" zoomin="0" blendcolor="0x000000" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" zoomout="0" softedge="0" blendtime="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" lockedkeyboard="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertcontrol="1" dblclickfullscreen="0" rubberband="0" invertwheel="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata title="" datetime="" source="" description="" latitude="" longitude="" author="" comment="" tags="" customnodeid="" copyright="" info=""/>
+  </masternode>
+</tour>
